@@ -10,4 +10,4 @@ An interactive system for uploading and querying PDF documents using natural lan
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/dinara025/information-retrieval-system.git
+   https://github.com/dinara025/IR-System-for-PDF-documents.git
